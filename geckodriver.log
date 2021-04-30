@@ -1,0 +1,65 @@
+1619788419690	geckodriver	INFO	Listening on 127.0.0.1:37101
+1619788419694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesPqNvD"
+*** You are running in headless mode.
+1619788421581	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:166820): GLib-GObject-CRITICAL **: 09:13:41.857: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:166840): GLib-GObject-CRITICAL **: 09:13:41.928: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:166992): GLib-GObject-CRITICAL **: 09:13:44.943: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619788424946	Marionette	INFO	Listening on port 39891
+1619788425018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619788436639	geckodriver	INFO	Listening on 127.0.0.1:36279
+1619788436644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqMH5Lf"
+*** You are running in headless mode.
+1619788438402	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:167272): GLib-GObject-CRITICAL **: 09:13:58.678: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:167292): GLib-GObject-CRITICAL **: 09:13:58.734: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:167374): GLib-GObject-CRITICAL **: 09:14:02.108: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619788442161	Marionette	INFO	Listening on port 37667
+1619788442267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619788454434	geckodriver	INFO	Listening on 127.0.0.1:54515
+1619788454437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet4FR30"
+*** You are running in headless mode.
+1619788457862	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:167600): GLib-GObject-CRITICAL **: 09:14:18.149: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:167620): GLib-GObject-CRITICAL **: 09:14:18.215: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619788461279	Marionette	INFO	Listening on port 41539
+
+(/usr/lib/firefox/firefox:167706): GLib-GObject-CRITICAL **: 09:14:21.307: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619788461366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
