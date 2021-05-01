@@ -1,11 +1,18 @@
 import time
+import datetime
 from utils import Utils
 
-class Execute():
-    def __init__(self, driver_tab, id_value, data_file_name):
+class elements():
+    def __init__(self, driver_tab: str, id_value: str, data_file_name: str, ignore: bool):
         self.driver_tab = driver_tab
         self.id_value = id_value
         self.data_file_name = data_file_name
+        self.ignore = ignore
+
+
+        if (ignore):
+            print(id_value + ' | Ignored operation.')
+            return
 
         xpath = '//*[@id="' + id_value + '"]/div'
 
@@ -13,11 +20,13 @@ class Execute():
         readMore = driver_tab.find_element_by_xpath('//*[@id="catalog-search"]/div[6]/div[2]/div/div/a')
         
         # Click on the 'LOAD MORE' button until all the elements are loaded
+        print(id_value + ' | Loading elements...')
         while (len(readMore.text) > 0): readMore.click()
 
         elements = driver_tab.find_elements_by_xpath(xpath)
         data = []
 
+        print(id_value + ' | Start collect elements...')
         for element in elements:
             url = element.find_element_by_tag_name('a').get_attribute("href")
             uuid = element.find_element_by_tag_name('a').get_attribute("id")
@@ -38,6 +47,6 @@ class Execute():
             })
         
         print(id_value + ' | Total elements searched:', len(data))
-        print('Generating ' + id_value + ' file...')
+        print(id_value + ' | Generating file...')
         Utils.writeJsonFile('./data/', data_file_name, data)
-        print(id_value + ' created!\n')
+        print(id_value + ' | File created.\n')

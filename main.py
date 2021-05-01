@@ -1,6 +1,4 @@
 from utils import Utils, Collect
-import time
-from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
@@ -12,7 +10,7 @@ option = Options()
 option.headless = True
 browser = webdriver.Firefox(options=option)
 
-# search element
+# Search element
 browser.get(url)
 skinPacksTab = browser.find_element_by_link_text('SKIN PACKS')
 texturePacksTab = browser.find_element_by_link_text('TEXTURE PACKS')
@@ -21,8 +19,13 @@ adventureMapsTab = browser.find_element_by_link_text('ADVENTURE MAPS')
 miniGamesTab = browser.find_element_by_link_text('MINI GAMES')
 survivalSpawnsTab = browser.find_element_by_link_text('SURVIVAL SPAWNS')
 
-# Collect.Execute(skinPacksTab, 'skinpack', 'skin-pack')
-Collect.Execute(texturePacksTab, 'resourcepack', 'texture-pack')
+# Collect from every category
+Collect.elements(skinPacksTab, 'skinpack', 'skin-packs', False)
+Collect.elements(texturePacksTab, 'resourcepack', 'texture-packs', False)
+Collect.elements(mashUpPacksTab, 'mashup', 'mash-up-packs', False)
+Collect.elements(adventureMapsTab, 'adventure_world', 'adventure-maps', False)
+Collect.elements(miniGamesTab, 'mini_game_world', 'mini-games', False)
+Collect.elements(survivalSpawnsTab, 'survival_spawn_world', 'survival-packs', False)
 
-# close firefox
+# Close Firefox
 browser.quit()
