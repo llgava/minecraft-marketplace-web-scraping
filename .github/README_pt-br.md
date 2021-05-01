@@ -26,18 +26,20 @@ Após fazer a instalação do Python e pip, entre no diretório do projeto e exe
 ```
 
 ## Estrutura de JSON gerado
+
 ```json
 [
   {
-    "uuid": str,
-    "title": str,
-    "creator": str,
-    "price": str | int,
-    "url": str,
-    "keyart": str
+    "uuid": "str",
+    "title": "str",
+    "creator": "str",
+    "price": "str | int",
+    "url": "str",
+    "keyart": "str"
   }
 ]
 ```
+
 O preço pode ser tanto do tipo `string` quando `int` por motivo de existirem itens na Marketplace de graça, que são exibidos com o preço de **FREE**.
 
 ### Contato

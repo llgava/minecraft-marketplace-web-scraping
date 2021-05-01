@@ -26,18 +26,20 @@ After installing Python and pip, enter the project directory and perform the ins
 ```
 
 ## Generated JSON structure
+
 ```json
 [
   {
-    "uuid": str,
-    "title": str,
-    "creator": str,
-    "price": str | int,
-    "url": str,
-    "keyart": str
+    "uuid": "str",
+    "title": "str",
+    "creator": "str",
+    "price": "str | int",
+    "url": "str",
+    "keyart": "str"
   }
 ]
 ```
+
 The price can be either `string` or `int` because there are items on the Marketplace for free, which are displayed at the price of **FREE**. 
 
 ### Contact
