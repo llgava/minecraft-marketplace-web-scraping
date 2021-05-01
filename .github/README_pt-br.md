@@ -25,6 +25,12 @@ Após fazer a instalação do Python e pip, entre no diretório do projeto e exe
 λ pip install -r requirements.txt
 ```
 
+## Rodando o programa
+
+```shell
+λ clear && python main.py
+```
+
 ## Estrutura de JSON gerado
 
 ```json

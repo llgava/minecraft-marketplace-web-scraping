@@ -25,6 +25,12 @@ After installing Python and pip, enter the project directory and perform the ins
 λ pip install -r requirements.txt
 ```
 
+## Running the program
+
+```shell
+λ clear && python main.py
+```
+
 ## Generated JSON structure
 
 ```json
