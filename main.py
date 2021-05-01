@@ -5,12 +5,13 @@ from selenium.webdriver.firefox.options import Options
 url = "https://www.minecraft.net/en-us/catalog"
 
 # webdriver
-# To run in background add this options inside Firefox webdriver: options=option
+# To run the webdrive in background add this
+# inside Firefox webdriver: options=option
 option = Options()
 option.headless = True
 browser = webdriver.Firefox(options=option)
 
-# Search element
+# Search element in the HTML
 browser.get(url)
 skinPacksTab = browser.find_element_by_link_text('SKIN PACKS')
 texturePacksTab = browser.find_element_by_link_text('TEXTURE PACKS')
@@ -20,12 +21,12 @@ miniGamesTab = browser.find_element_by_link_text('MINI GAMES')
 survivalSpawnsTab = browser.find_element_by_link_text('SURVIVAL SPAWNS')
 
 # Collect from every category
-Collect.elements(skinPacksTab, 'skinpack', 'skin-packs', False)
+Collect.elements(skinPacksTab, 'skinpack', 'skin-packs', True)
 Collect.elements(texturePacksTab, 'resourcepack', 'texture-packs', False)
-Collect.elements(mashUpPacksTab, 'mashup', 'mash-up-packs', False)
-Collect.elements(adventureMapsTab, 'adventure_world', 'adventure-maps', False)
-Collect.elements(miniGamesTab, 'mini_game_world', 'mini-games', False)
-Collect.elements(survivalSpawnsTab, 'survival_spawn_world', 'survival-packs', False)
+Collect.elements(mashUpPacksTab, 'mashup', 'mash-up-packs', True)
+Collect.elements(adventureMapsTab, 'adventure_world', 'adventure-maps', True)
+Collect.elements(miniGamesTab, 'mini_game_world', 'mini-games', True)
+Collect.elements(survivalSpawnsTab, 'survival_spawn_world', 'survival-packs', True)
 
 # Close Firefox
 browser.quit()

@@ -1,0 +1,12 @@
+// Example as adventure-maps.json
+
+[
+  {
+      "uuid":"301375b9-e70a-49c8-9f96-e21b0021d9d7",
+      "title":"WORLD OF MAGIC",
+      "creator":"CYCLONE",
+      "price":"1340",
+      "url":"https://www.minecraft.net/en-us/pdp.html?id=301375b9-e70a-49c8-9f96-e21b0021d9d7",
+      "keyart":"https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/3bbe69ec-4fc1-4899-8eb3-98a2c8b8c7aa/World_of_Magic_thumbnail.jpg?width=500"
+   }
+]

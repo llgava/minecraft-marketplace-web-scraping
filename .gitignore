@@ -1,2 +1,11 @@
+# Folders
+**/__pycache__/
+
+# Files
+adventure-maps.json
+mash-up-packs.json
+mini-games.json
+skin-packs.json
+survival-packs.json
+texture-packs.json
 geckodriver.log
-__pycache__/

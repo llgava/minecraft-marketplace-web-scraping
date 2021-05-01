@@ -9,12 +9,11 @@ class elements():
         self.data_file_name = data_file_name
         self.ignore = ignore
 
-
         if (ignore):
             print(id_value + ' | Ignored operation.')
             return
 
-        xpath = '//*[@id="' + id_value + '"]/div'
+        xpathCatalog = '//*[@id="' + id_value + '"]/div'
 
         driver_tab.click()
         readMore = driver_tab.find_element_by_xpath('//*[@id="catalog-search"]/div[6]/div[2]/div/div/a')
@@ -23,19 +22,20 @@ class elements():
         print(id_value + ' | Loading elements...')
         while (len(readMore.text) > 0): readMore.click()
 
-        elements = driver_tab.find_elements_by_xpath(xpath)
+        elementsCatalog = driver_tab.find_elements_by_xpath(xpathCatalog)
         data = []
 
-        print(id_value + ' | Start collect elements...')
-        for element in elements:
+        print(id_value + ' | Start collect catalog elements...')
+        for element in elementsCatalog:
             url = element.find_element_by_tag_name('a').get_attribute("href")
             uuid = element.find_element_by_tag_name('a').get_attribute("id")
             title = element.find_element_by_tag_name('h4').text
-            creator = element.find_element_by_class_name('creator').text
+            creator = element.find_element_by_class_name('creator').text[3:]
             price = element.find_element_by_tag_name('div').find_element_by_css_selector('p:not(.ng-hide)').text
             keyart = element.find_element_by_tag_name('img').get_attribute("bn-lazy-src")
 
             if(len(uuid) == 0): continue
+            if (price != 'FREE'): price = int(price)
 
             data.append({
                 'uuid': uuid,
