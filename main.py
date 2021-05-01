@@ -1,3 +1,4 @@
+from utils import Utils, Collect
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -5,28 +6,23 @@ from selenium.webdriver.firefox.options import Options
 
 url = "https://www.minecraft.net/en-us/catalog"
 
+# webdriver
+# To run in background add this options inside Firefox webdriver: options=option
 option = Options()
 option.headless = True
-driver = webdriver.Firefox(options=option)
+browser = webdriver.Firefox(options=option)
 
-driver.get(url)
+# search element
+browser.get(url)
+skinPacksTab = browser.find_element_by_link_text('SKIN PACKS')
+texturePacksTab = browser.find_element_by_link_text('TEXTURE PACKS')
+mashUpPacksTab = browser.find_element_by_link_text('MASH-UP PACKS')
+adventureMapsTab = browser.find_element_by_link_text('ADVENTURE MAPS')
+miniGamesTab = browser.find_element_by_link_text('MINI GAMES')
+survivalSpawnsTab = browser.find_element_by_link_text('SURVIVAL SPAWNS')
 
-""" procura o elemento """
-element = driver.find_element_by_xpath(
-    '//*[@id="Most Popular all"]/div/div/div[2]/div/categorydata/div[3]')
-html = element.get_attribute('outerHTML')
+# Collect.Execute(skinPacksTab, 'skinpack', 'skin-pack')
+Collect.Execute(texturePacksTab, 'resourcepack', 'texture-pack')
 
-
-title = element.find_element_by_tag_name('h4').text
-creator = element.find_element_by_class_name('creator').text
-price = element.find_element_by_tag_name('div').find_element_by_css_selector('p:not(.ng-hide)').text
-keyart = element.find_element_by_tag_name('img').get_attribute("bn-lazy-src")
-
-print('TITLE: ', title)
-print('CREATOR:', creator)
-print('PRICE:', price)
-print('KEYART:', keyart)
-
-element.click()
-
-driver.quit()
+# close firefox
+browser.quit()

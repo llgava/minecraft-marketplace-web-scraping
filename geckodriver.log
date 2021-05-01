@@ -1,65 +1,1992 @@
-1619788419690	geckodriver	INFO	Listening on 127.0.0.1:37101
-1619788419694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesPqNvD"
-*** You are running in headless mode.
-1619788421581	Marionette	INFO	Marionette enabled
-
-(/usr/lib/firefox/firefox:166820): GLib-GObject-CRITICAL **: 09:13:41.857: g_object_set: assertion 'G_IS_OBJECT (object)' failed
-
-(/usr/lib/firefox/firefox:166840): GLib-GObject-CRITICAL **: 09:13:41.928: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619810115207	geckodriver	INFO	Listening on 127.0.0.1:46535
+1619810115231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4JlXKM"
+1619810117208	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-
-(/usr/lib/firefox/firefox:166992): GLib-GObject-CRITICAL **: 09:13:44.943: g_object_set: assertion 'G_IS_OBJECT (object)' failed
-1619788424946	Marionette	INFO	Listening on port 39891
-1619788425018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619810120616	Marionette	INFO	Listening on port 45151
+1619810120654	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619810167173	geckodriver	INFO	Listening on 127.0.0.1:51281
+1619810167177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7gTqGT"
+1619810169022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619810172236	Marionette	INFO	Listening on port 46275
+1619810172306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619810172939	Marionette	INFO	Stopped listening on port 45151
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
-1619788436639	geckodriver	INFO	Listening on 127.0.0.1:36279
-1619788436644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqMH5Lf"
-*** You are running in headless mode.
-1619788438402	Marionette	INFO	Marionette enabled
-
-(/usr/lib/firefox/firefox:167272): GLib-GObject-CRITICAL **: 09:13:58.678: g_object_set: assertion 'G_IS_OBJECT (object)' failed
-
-(/usr/lib/firefox/firefox:167292): GLib-GObject-CRITICAL **: 09:13:58.734: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619810182620	Marionette	INFO	Stopped listening on port 46275
+1619810294726	geckodriver	INFO	Listening on 127.0.0.1:59339
+1619810294730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepFQ3ty"
+1619810297430	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-
-(/usr/lib/firefox/firefox:167374): GLib-GObject-CRITICAL **: 09:14:02.108: g_object_set: assertion 'G_IS_OBJECT (object)' failed
-1619788442161	Marionette	INFO	Listening on port 37667
-1619788442267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619810300518	Marionette	INFO	Listening on port 45319
+1619810300552	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619810334066	geckodriver	INFO	Listening on 127.0.0.1:41645
+1619810334069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLSWkyF"
+1619810335907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619810338950	Marionette	INFO	Listening on port 39157
+1619810338996	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
-JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
-JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
-JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
-JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
-1619788454434	geckodriver	INFO	Listening on 127.0.0.1:54515
-1619788454437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet4FR30"
-*** You are running in headless mode.
-1619788457862	Marionette	INFO	Marionette enabled
-
-(/usr/lib/firefox/firefox:167600): GLib-GObject-CRITICAL **: 09:14:18.149: g_object_set: assertion 'G_IS_OBJECT (object)' failed
-
-(/usr/lib/firefox/firefox:167620): GLib-GObject-CRITICAL **: 09:14:18.215: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619810349653	Marionette	INFO	Stopped listening on port 39157
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619810519680	geckodriver	INFO	Listening on 127.0.0.1:35949
+1619810519684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKkQGwg"
+1619810521416	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1619788461279	Marionette	INFO	Listening on port 41539
+1619810524364	Marionette	INFO	Listening on port 33293
+1619810524418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619810555213	geckodriver	INFO	Listening on 127.0.0.1:41903
+1619810555217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileszjoWA"
+1619810557118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619810560097	Marionette	INFO	Listening on port 42715
+1619810560152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619810643074	geckodriver	INFO	Listening on 127.0.0.1:49589
+1619810643078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqUQR0D"
+1619810645505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619810648451	Marionette	INFO	Listening on port 42241
+1619810648502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619810738799	geckodriver	INFO	Listening on 127.0.0.1:40953
+1619810738802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR2De1W"
+1619810740653	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619810744054	Marionette	INFO	Listening on port 45757
+1619810744126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619810750324	Marionette	INFO	Stopped listening on port 45757
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
 
-(/usr/lib/firefox/firefox:167706): GLib-GObject-CRITICAL **: 09:14:21.307: g_object_set: assertion 'G_IS_OBJECT (object)' failed
-1619788461366	Marionette	WARN	TLS certificate errors will be ignored for this session
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1619810758855	geckodriver	INFO	Listening on 127.0.0.1:53115
+1619810758858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecvBmBy"
+1619810759431	Marionette	INFO	Stopped listening on port 42715
+1619810759536	Marionette	INFO	Stopped listening on port 33293
+1619810759536	Marionette	INFO	Stopped listening on port 42241
+1619810760771	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619810763684	Marionette	INFO	Listening on port 45145
+1619810763782	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619810769892	Marionette	INFO	Stopped listening on port 45145
+1619810959448	geckodriver	INFO	Listening on 127.0.0.1:53829
+1619810959452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesDzLTB"
+1619810961227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619810964623	Marionette	INFO	Listening on port 41151
+1619810964683	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
 JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619810968301	Marionette	INFO	Stopped listening on port 41151
+1619811016658	geckodriver	INFO	Listening on 127.0.0.1:41713
+1619811016663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8OKsTA"
+1619811018405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619811021519	Marionette	INFO	Listening on port 36973
+1619811021586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619811025332	Marionette	INFO	Stopped listening on port 36973
+1619833380328	geckodriver	INFO	Listening on 127.0.0.1:53755
+1619833381291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJZhgRk"
+1619833389550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619833396996	Marionette	INFO	Listening on port 36981
+1619833397231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619833403907	Marionette	INFO	Stopped listening on port 36981
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619833697151	geckodriver	INFO	Listening on 127.0.0.1:56671
+1619833697153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemWh8Bu"
+1619833699072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619833702084	Marionette	INFO	Listening on port 38705
+1619833702404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619833706391	Marionette	INFO	Stopped listening on port 38705
+1619833769870	geckodriver	INFO	Listening on 127.0.0.1:33615
+1619833769874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5sZrr0"
+*** You are running in headless mode.
+1619833771817	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:15305): GLib-GObject-CRITICAL **: 21:49:32.078: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:15325): GLib-GObject-CRITICAL **: 21:49:32.145: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619833774425	Marionette	INFO	Listening on port 39041
+
+(/usr/lib/firefox/firefox:15399): GLib-GObject-CRITICAL **: 21:49:34.442: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619833774893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619833779309	Marionette	INFO	Stopped listening on port 39041
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619833853438	geckodriver	INFO	Listening on 127.0.0.1:39591
+1619833853442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ezoZP"
+*** You are running in headless mode.
+1619833855363	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:16019): GLib-GObject-CRITICAL **: 21:50:55.663: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:16039): GLib-GObject-CRITICAL **: 21:50:55.722: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619833858384	Marionette	INFO	Listening on port 35665
+
+(/usr/lib/firefox/firefox:16115): GLib-GObject-CRITICAL **: 21:50:58.391: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619833858463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619833930188	geckodriver	INFO	Listening on 127.0.0.1:52043
+1619833930192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW5oKnN"
+*** You are running in headless mode.
+1619833931958	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:16836): GLib-GObject-CRITICAL **: 21:52:12.201: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:16856): GLib-GObject-CRITICAL **: 21:52:12.268: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:16931): GLib-GObject-CRITICAL **: 21:52:15.249: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619833935300	Marionette	INFO	Listening on port 38717
+1619833935416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619833980462	geckodriver	INFO	Listening on 127.0.0.1:58849
+1619833980466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehKrLGf"
+*** You are running in headless mode.
+1619833982274	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:17281): GLib-GObject-CRITICAL **: 21:53:02.556: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17301): GLib-GObject-CRITICAL **: 21:53:02.624: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619833984989	Marionette	INFO	Listening on port 35169
+
+(/usr/lib/firefox/firefox:17377): GLib-GObject-CRITICAL **: 21:53:05.007: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17379): GLib-GObject-CRITICAL **: 21:53:05.018: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619833985364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619833989603	Marionette	INFO	Stopped listening on port 35169
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619834034444	geckodriver	INFO	Listening on 127.0.0.1:47007
+1619834034448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVCL8vY"
+*** You are running in headless mode.
+1619834036217	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:17700): GLib-GObject-CRITICAL **: 21:53:56.507: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17722): GLib-GObject-CRITICAL **: 21:53:56.581: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619834039190	Marionette	INFO	Listening on port 37451
+
+(/usr/lib/firefox/firefox:17795): GLib-GObject-CRITICAL **: 21:53:59.201: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834039266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834043922	Marionette	INFO	Stopped listening on port 37451
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619834251525	geckodriver	INFO	Listening on 127.0.0.1:48929
+1619834251529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegnA8eb"
+*** You are running in headless mode.
+1619834253253	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:19003): GLib-GObject-CRITICAL **: 21:57:33.561: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19023): GLib-GObject-CRITICAL **: 21:57:33.631: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19148): GLib-GObject-CRITICAL **: 21:57:36.398: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834256443	Marionette	INFO	Listening on port 42363
+1619834256553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834261141	Marionette	INFO	Stopped listening on port 42363
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilegnA8eb/protections.sqlite
+1619834305217	geckodriver	INFO	Listening on 127.0.0.1:46887
+1619834305221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileycbDca"
+*** You are running in headless mode.
+1619834307051	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:19569): GLib-GObject-CRITICAL **: 21:58:27.327: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19591): GLib-GObject-CRITICAL **: 21:58:27.397: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19718): GLib-GObject-CRITICAL **: 21:58:30.048: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834310057	Marionette	INFO	Listening on port 35497
+1619834310144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834314561	Marionette	INFO	Stopped listening on port 35497
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619834576020	geckodriver	INFO	Listening on 127.0.0.1:33811
+1619834576024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile84HgMo"
+*** You are running in headless mode.
+1619834578132	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:21527): GLib-GObject-CRITICAL **: 22:02:58.413: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:21547): GLib-GObject-CRITICAL **: 22:02:58.476: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619834581068	Marionette	INFO	Listening on port 40005
+
+(/usr/lib/firefox/firefox:21623): GLib-GObject-CRITICAL **: 22:03:01.093: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834581146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834610888	geckodriver	INFO	Listening on 127.0.0.1:32773
+1619834610892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOYlXok"
+*** You are running in headless mode.
+1619834612717	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:21900): GLib-GObject-CRITICAL **: 22:03:32.994: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:21920): GLib-GObject-CRITICAL **: 22:03:33.059: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21995): GLib-GObject-CRITICAL **: 22:03:36.971: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834616976	Marionette	INFO	Listening on port 33435
+1619834617026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834769663	geckodriver	INFO	Listening on 127.0.0.1:52439
+1619834769667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePTqZZj"
+*** You are running in headless mode.
+1619834771588	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:22986): GLib-GObject-CRITICAL **: 22:06:11.898: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23006): GLib-GObject-CRITICAL **: 22:06:11.955: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23075): GLib-GObject-CRITICAL **: 22:06:13.113: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834774801	Marionette	INFO	Listening on port 41325
+1619834774889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834828312	geckodriver	INFO	Listening on 127.0.0.1:44771
+1619834828315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemWejvX"
+*** You are running in headless mode.
+1619834830141	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:23516): GLib-GObject-CRITICAL **: 22:07:10.398: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23536): GLib-GObject-CRITICAL **: 22:07:10.476: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619834833374	Marionette	INFO	Listening on port 40711
+
+(/usr/lib/firefox/firefox:23617): GLib-GObject-CRITICAL **: 22:07:13.378: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834833437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834840420	geckodriver	INFO	Listening on 127.0.0.1:52925
+1619834840424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIYhMob"
+*** You are running in headless mode.
+1619834842494	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:23864): GLib-GObject-CRITICAL **: 22:07:22.773: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23884): GLib-GObject-CRITICAL **: 22:07:22.842: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23945): GLib-GObject-CRITICAL **: 22:07:23.837: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834845594	Marionette	INFO	Listening on port 40989
+1619834845644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834854631	geckodriver	INFO	Listening on 127.0.0.1:46697
+1619834854638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTaviHk"
+*** You are running in headless mode.
+1619834857792	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:24147): GLib-GObject-CRITICAL **: 22:07:38.072: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24167): GLib-GObject-CRITICAL **: 22:07:38.129: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:24245): GLib-GObject-CRITICAL **: 22:07:41.075: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834861146	Marionette	INFO	Listening on port 35841
+1619834861163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834900079	geckodriver	INFO	Listening on 127.0.0.1:37013
+1619834900083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOnrKte"
+*** You are running in headless mode.
+1619834902110	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:24653): GLib-GObject-CRITICAL **: 22:08:22.395: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24673): GLib-GObject-CRITICAL **: 22:08:22.470: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619834905262	Marionette	INFO	Listening on port 45515
+
+(/usr/lib/firefox/firefox:24750): GLib-GObject-CRITICAL **: 22:08:25.284: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834905320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834910293	Marionette	INFO	Stopped listening on port 45515
+1619834915235	geckodriver	INFO	Listening on 127.0.0.1:36423
+1619834915237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZZvZxu"
+*** You are running in headless mode.
+1619834917537	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:24935): GLib-GObject-CRITICAL **: 22:08:37.846: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24955): GLib-GObject-CRITICAL **: 22:08:37.912: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619834921461	Marionette	INFO	Listening on port 46779
+
+(/usr/lib/firefox/firefox:25035): GLib-GObject-CRITICAL **: 22:08:41.472: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834921561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619834926060	Marionette	INFO	Stopped listening on port 46779
+1619834972230	geckodriver	INFO	Listening on 127.0.0.1:41423
+1619834972234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehDShhx"
+*** You are running in headless mode.
+1619834974044	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:25401): GLib-GObject-CRITICAL **: 22:09:34.334: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:25421): GLib-GObject-CRITICAL **: 22:09:34.400: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619834977209	Marionette	INFO	Listening on port 43887
+
+(/usr/lib/firefox/firefox:25499): GLib-GObject-CRITICAL **: 22:09:37.221: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619834977252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835025455	geckodriver	INFO	Listening on 127.0.0.1:53645
+1619835025459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileldujBp"
+*** You are running in headless mode.
+1619835027353	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:25853): GLib-GObject-CRITICAL **: 22:10:27.628: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:25873): GLib-GObject-CRITICAL **: 22:10:27.693: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835030409	Marionette	INFO	Listening on port 36623
+
+(/usr/lib/firefox/firefox:25952): GLib-GObject-CRITICAL **: 22:10:30.415: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619835030482	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619835058603	geckodriver	INFO	Listening on 127.0.0.1:54227
+1619835058608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYBTbjF"
+*** You are running in headless mode.
+1619835060588	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26187): GLib-GObject-CRITICAL **: 22:11:00.843: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26209): GLib-GObject-CRITICAL **: 22:11:00.931: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835063841	Marionette	INFO	Listening on port 45025
+
+(/usr/lib/firefox/firefox:26287): GLib-GObject-CRITICAL **: 22:11:03.854: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619835064163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835075262	geckodriver	INFO	Listening on 127.0.0.1:41515
+1619835075266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6yI3Xe"
+*** You are running in headless mode.
+1619835077388	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26537): GLib-GObject-CRITICAL **: 22:11:17.672: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26557): GLib-GObject-CRITICAL **: 22:11:17.735: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:26634): GLib-GObject-CRITICAL **: 22:11:21.162: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619835081203	Marionette	INFO	Listening on port 41831
+1619835081294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835095270	geckodriver	INFO	Listening on 127.0.0.1:52885
+1619835095274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec72ccy"
+*** You are running in headless mode.
+1619835097286	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26817): GLib-GObject-CRITICAL **: 22:11:37.590: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26837): GLib-GObject-CRITICAL **: 22:11:37.656: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835100918	Marionette	INFO	Listening on port 38415
+
+(/usr/lib/firefox/firefox:26916): GLib-GObject-CRITICAL **: 22:11:40.924: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619835100995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619835122054	geckodriver	INFO	Listening on 127.0.0.1:36675
+1619835122058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9h0HA6"
+*** You are running in headless mode.
+1619835124013	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:27278): GLib-GObject-CRITICAL **: 22:12:04.306: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27298): GLib-GObject-CRITICAL **: 22:12:04.358: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:27375): GLib-GObject-CRITICAL **: 22:12:07.533: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619835127564	Marionette	INFO	Listening on port 46837
+1619835127586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835150936	geckodriver	INFO	Listening on 127.0.0.1:54237
+1619835150941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVEO8Se"
+*** You are running in headless mode.
+1619835152901	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:27669): GLib-GObject-CRITICAL **: 22:12:33.142: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27694): GLib-GObject-CRITICAL **: 22:12:33.216: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835156141	Marionette	INFO	Listening on port 45185
+
+(/usr/lib/firefox/firefox:27768): GLib-GObject-CRITICAL **: 22:12:36.161: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619835156163	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27766): GLib-GObject-CRITICAL **: 22:12:36.166: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835161865	Marionette	INFO	Stopped listening on port 45185
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619835193597	geckodriver	INFO	Listening on 127.0.0.1:38213
+1619835193601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWV2JKz"
+*** You are running in headless mode.
+1619835195512	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:28099): GLib-GObject-CRITICAL **: 22:13:15.810: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:28119): GLib-GObject-CRITICAL **: 22:13:15.871: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:28193): GLib-GObject-CRITICAL **: 22:13:18.510: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619835198524	Marionette	INFO	Listening on port 38535
+1619835198624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835214820	Marionette	INFO	Stopped listening on port 38535
+1619835227264	geckodriver	INFO	Listening on 127.0.0.1:33879
+1619835227268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekWpbyi"
+1619835229110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835232338	Marionette	INFO	Listening on port 45489
+1619835232393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835252637	Marionette	INFO	Stopped listening on port 45489
+1619835362173	geckodriver	INFO	Listening on 127.0.0.1:43497
+1619835362177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTJigyo"
+1619835364153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835367264	Marionette	INFO	Listening on port 34661
+1619835367316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835510436	geckodriver	INFO	Listening on 127.0.0.1:42953
+1619835510440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebaEKic"
+1619835512341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619835518137	geckodriver	INFO	Listening on 127.0.0.1:60339
+1619835518139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK1PwYF"
+1619835520112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835523208	Marionette	INFO	Listening on port 42471
+1619835523280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835533938	Marionette	INFO	Stopped listening on port 42471
+1619835535326	Marionette	INFO	Stopped listening on port 34661
+1619835766653	geckodriver	INFO	Listening on 127.0.0.1:48891
+1619835766657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley5yBUl"
+1619835768618	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835771702	Marionette	INFO	Listening on port 43945
+1619835771775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835820913	geckodriver	INFO	Listening on 127.0.0.1:47441
+1619835820916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6yE456"
+1619835822840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835825731	Marionette	INFO	Listening on port 36315
+1619835825837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835851890	geckodriver	INFO	Listening on 127.0.0.1:54915
+1619835851895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDMTIUv"
+1619835853868	Marionette	INFO	Marionette enabled
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 5348: TypeError: win is null
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1619835857114	Marionette	INFO	Stopped listening on port 43945
+1619835857266	Marionette	INFO	Stopped listening on port 36315
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource:///modules/sessionstore/SessionCookies.jsm, line 198: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICookieManager.sessionCookies]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+1619835861595	geckodriver	INFO	Listening on 127.0.0.1:58623
+1619835861599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9SiNqD"
+1619835863644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835866590	Marionette	INFO	Listening on port 43601
+1619835866622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835941733	geckodriver	INFO	Listening on 127.0.0.1:36161
+1619835941737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJFQJap"
+1619835943627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835946840	Marionette	INFO	Listening on port 33771
+1619835946853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835975051	geckodriver	INFO	Listening on 127.0.0.1:57665
+1619835975054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesfp6Kv"
+1619835977642	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619835980643	Marionette	INFO	Listening on port 42437
+1619835980687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619835991126	Marionette	INFO	Stopped listening on port 42437
+1619836038139	geckodriver	INFO	Listening on 127.0.0.1:58197
+1619836038143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileup56nD"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1619836041359	Marionette	INFO	Stopped listening on port 43601
+1619836041394	Marionette	INFO	Stopped listening on port 33771
+1619836041665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836044671	Marionette	INFO	Listening on port 46205
+1619836044765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836159218	geckodriver	INFO	Listening on 127.0.0.1:55469
+1619836159221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuZCpmN"
+1619836161092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836164075	Marionette	INFO	Listening on port 33491
+1619836164140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836174512	geckodriver	INFO	Listening on 127.0.0.1:43027
+1619836174515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaKDYN6"
+1619836176573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836179613	Marionette	INFO	Listening on port 35529
+1619836179632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836233004	geckodriver	INFO	Listening on 127.0.0.1:46225
+1619836233008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0WHAn4"
+1619836234899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1619836238394	Marionette	INFO	Stopped listening on port 35529
+1619836238920	Marionette	INFO	Listening on port 41309
+1619836239032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836254570	Marionette	INFO	Stopped listening on port 41309
+1619836373606	Marionette	INFO	Stopped listening on port 33491
+1619836373625	Marionette	INFO	Stopped listening on port 46205
+1619836393377	geckodriver	INFO	Listening on 127.0.0.1:36597
+1619836393381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexEPfCv"
+1619836395322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836398408	Marionette	INFO	Listening on port 38707
+1619836398503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836403393	Marionette	INFO	Stopped listening on port 38707
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619836413345	geckodriver	INFO	Listening on 127.0.0.1:49977
+1619836413349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFfEdjV"
+1619836415165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836418285	Marionette	INFO	Listening on port 44407
+1619836418381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836422781	Marionette	INFO	Stopped listening on port 44407
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619836438189	geckodriver	INFO	Listening on 127.0.0.1:49479
+1619836438193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqmdKXv"
+1619836440413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836443585	Marionette	INFO	Listening on port 32779
+1619836443616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836448542	Marionette	INFO	Stopped listening on port 32779
+1619836463437	geckodriver	INFO	Listening on 127.0.0.1:49841
+1619836463441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileae8iU6"
+1619836465304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836468401	Marionette	INFO	Listening on port 35773
+1619836468464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836473150	Marionette	INFO	Stopped listening on port 35773
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619836481090	geckodriver	INFO	Listening on 127.0.0.1:43333
+1619836481094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg7LRT8"
+1619836483067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836486088	Marionette	INFO	Listening on port 32957
+1619836486112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836490821	Marionette	INFO	Stopped listening on port 32957
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619836537935	geckodriver	INFO	Listening on 127.0.0.1:35061
+1619836537939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileONUaSy"
+1619836539857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619836542821	Marionette	INFO	Listening on port 46527
+1619836542868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619836547519	Marionette	INFO	Stopped listening on port 46527
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619837084992	geckodriver	INFO	Listening on 127.0.0.1:46279
+1619837084996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehiPN7k"
+1619837086752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619837089815	Marionette	INFO	Listening on port 37635
+1619837089920	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+1619837092136	Marionette	INFO	Stopped listening on port 37635
+1619837096953	geckodriver	INFO	Listening on 127.0.0.1:39547
+1619837096957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile24x7pW"
+1619837098763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619837102440	Marionette	INFO	Listening on port 36169
+1619837102479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619837110639	Marionette	INFO	Stopped listening on port 36169
+1619837488334	geckodriver	INFO	Listening on 127.0.0.1:55827
+1619837488336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegWcrOL"
+1619837490251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619837493343	Marionette	INFO	Listening on port 36849
+1619837493360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619837655091	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837657454	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837659179	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837660928	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837664493	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837670453	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837671817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837674213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837675597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837679143	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837684420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837686271	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837688819	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837690406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837694925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837696529	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837701142	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837702695	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837704645	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837710541	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837712133	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837714775	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837717030	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837719320	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837725029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837726754	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837729813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837732070	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837736529	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837738909	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837741272	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837744881	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837747276	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837749005	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837754662	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837757131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837759681	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837762121	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837764569	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837766972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837769416	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837775727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619837776498	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 1593: TypeError: response.data[0] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619838059479	geckodriver	INFO	Listening on 127.0.0.1:45101
+1619838059483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB1IGpM"
+1619838061196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619838064228	Marionette	INFO	Listening on port 44631
+1619838064315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 1593: TypeError: response.data[0] is undefined
+1619838077536	Marionette	INFO	Stopped listening on port 44631
+1619838127944	geckodriver	INFO	Listening on 127.0.0.1:52647
+1619838127948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesljUAD"
+1619838130163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619838133156	Marionette	INFO	Listening on port 45537
+1619838133196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619838140942	geckodriver	INFO	Listening on 127.0.0.1:39157
+1619838140946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVvZBLW"
+1619838142768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1619838152629	geckodriver	INFO	Listening on 127.0.0.1:38091
+1619838152633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeSOsw9"
+*** You are running in headless mode.
+1619838154367	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:48402): GLib-GObject-CRITICAL **: 23:02:34.680: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:48422): GLib-GObject-CRITICAL **: 23:02:34.751: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619838157377	Marionette	INFO	Listening on port 39363
+
+(/usr/lib/firefox/firefox:48505): GLib-GObject-CRITICAL **: 23:02:37.398: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619838157455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619838246945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838252321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838253715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838255758	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838262474	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838263260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838265534	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838266327	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838267095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838267885	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838268638	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838269423	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838273218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838274003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838274800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838275616	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838276425	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838277308	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838278116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838278990	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838279743	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838280561	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838281391	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838282294	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838283144	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838285569	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838286433	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838287301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838288185	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838289044	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838290929	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838291758	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838292602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838293539	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838294440	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838295324	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838296163	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838297128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838298026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838298848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838300716	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838301617	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838302548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838303408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838304289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838305251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838306133	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838307447	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838309575	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838310469	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838311413	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838312295	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838313251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838314166	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838315051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838315954	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838316916	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838317781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838318743	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838319650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838320574	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838321487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838322407	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838323309	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838324269	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838325128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838326003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838327981	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838328920	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838329939	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838330879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838333562	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838337563	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838339448	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838343218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838347075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838349033	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838351161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838353095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838355986	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838361820	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838365648	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838367794	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838371948	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838374105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838378390	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838380582	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838382653	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838384754	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838385782	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838387986	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838390190	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838392195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838394334	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838396612	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838399028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838401245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838402460	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838404663	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838406818	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838411298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838413695	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838415935	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838418361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838420733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838424159	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838426530	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838428826	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838430115	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838431375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838433833	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838436853	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838438623	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838441164	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838443718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838445013	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838446212	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838448808	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838450046	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838452338	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619838724464	Marionette	INFO	Stopped listening on port 39363
+1619841253746	geckodriver	INFO	Listening on 127.0.0.1:40601
+1619841253748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1jxNvh"
+*** You are running in headless mode.
+1619841255440	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:60221): GLib-GObject-CRITICAL **: 23:54:15.729: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:60241): GLib-GObject-CRITICAL **: 23:54:15.794: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:60319): GLib-GObject-CRITICAL **: 23:54:18.277: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619841258283	Marionette	INFO	Listening on port 43221
+
+(/usr/lib/firefox/firefox:60321): GLib-GObject-CRITICAL **: 23:54:18.294: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619841258372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619841269517	geckodriver	INFO	Listening on 127.0.0.1:49657
+1619841269521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSQyKYg"
+*** You are running in headless mode.
+1619841271539	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:60586): GLib-GObject-CRITICAL **: 23:54:31.847: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:60608): GLib-GObject-CRITICAL **: 23:54:31.922: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619841274365	Marionette	INFO	Listening on port 35793
+
+(/usr/lib/firefox/firefox:60682): GLib-GObject-CRITICAL **: 23:54:34.370: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619841274445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619841282972	Marionette	INFO	Stopped listening on port 35793
+1619841322452	geckodriver	INFO	Listening on 127.0.0.1:32837
+1619841322456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5pwGTv"
+*** You are running in headless mode.
+1619841324136	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:60979): GLib-GObject-CRITICAL **: 23:55:24.424: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:60999): GLib-GObject-CRITICAL **: 23:55:24.496: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619841327284	Marionette	INFO	Listening on port 46269
+
+(/usr/lib/firefox/firefox:61134): GLib-GObject-CRITICAL **: 23:55:27.315: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619841327382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619841341878	geckodriver	INFO	Listening on 127.0.0.1:57185
+1619841341881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemoP1LA"
+*** You are running in headless mode.
+1619841343607	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:61326): GLib-GObject-CRITICAL **: 23:55:43.889: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:61346): GLib-GObject-CRITICAL **: 23:55:43.962: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:61441): GLib-GObject-CRITICAL **: 23:55:46.542: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619841346543	Marionette	INFO	Listening on port 35751
+1619841346607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619841354890	Marionette	INFO	Stopped listening on port 35751
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619841785490	geckodriver	INFO	Listening on 127.0.0.1:42493
+1619841785493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilennH52s"
+*** You are running in headless mode.
+1619841787268	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:63598): GLib-GObject-CRITICAL **: 00:03:07.593: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:63620): GLib-GObject-CRITICAL **: 00:03:07.662: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:63711): GLib-GObject-CRITICAL **: 00:03:10.264: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619841790268	Marionette	INFO	Listening on port 46049
+1619841790712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619841798376	Marionette	INFO	Stopped listening on port 46049
+1619841826682	geckodriver	INFO	Listening on 127.0.0.1:59513
+1619841826687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePFtD2y"
+*** You are running in headless mode.
+1619841828418	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:64056): GLib-GObject-CRITICAL **: 00:03:48.699: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:64076): GLib-GObject-CRITICAL **: 00:03:48.772: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:64150): GLib-GObject-CRITICAL **: 00:03:51.377: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619841831411	Marionette	INFO	Listening on port 39743
+1619841831511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619841838818	Marionette	INFO	Stopped listening on port 39743
+1619842272928	geckodriver	INFO	Listening on 127.0.0.1:39897
+1619842272932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Vx49L"
+*** You are running in headless mode.
+1619842274697	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:66350): GLib-GObject-CRITICAL **: 00:11:15.023: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:66370): GLib-GObject-CRITICAL **: 00:11:15.095: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842277692	Marionette	INFO	Listening on port 40887
+
+(/usr/lib/firefox/firefox:66450): GLib-GObject-CRITICAL **: 00:11:17.704: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619842277763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619842288914	Marionette	INFO	Stopped listening on port 40887
+1619842456001	geckodriver	INFO	Listening on 127.0.0.1:37661
+1619842456005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeFaGk3"
+*** You are running in headless mode.
+1619842457989	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:67731): GLib-GObject-CRITICAL **: 00:14:18.295: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:67753): GLib-GObject-CRITICAL **: 00:14:18.362: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842461190	Marionette	INFO	Listening on port 33347
+
+(/usr/lib/firefox/firefox:67840): GLib-GObject-CRITICAL **: 00:14:21.204: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619842461227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 1593: TypeError: response.data[0] is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 1593: TypeError: response.data[0] is undefined
+1619842469284	Marionette	INFO	Stopped listening on port 33347
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1619842496222	geckodriver	INFO	Listening on 127.0.0.1:60073
+1619842496225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Bngr2"
+*** You are running in headless mode.
+1619842497975	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:68131): GLib-GObject-CRITICAL **: 00:14:58.294: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:68151): GLib-GObject-CRITICAL **: 00:14:58.363: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+1619842665547	geckodriver	INFO	Listening on 127.0.0.1:50879
+1619842665551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCORIrG"
+*** You are running in headless mode.
+1619842667310	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:69097): GLib-GObject-CRITICAL **: 00:17:47.628: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:69119): GLib-GObject-CRITICAL **: 00:17:47.700: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842670281	Marionette	INFO	Listening on port 41795
+
+(/usr/lib/firefox/firefox:69246): GLib-GObject-CRITICAL **: 00:17:50.284: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619842670376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619842678270	Marionette	INFO	Stopped listening on port 41795
+1619842867870	geckodriver	INFO	Listening on 127.0.0.1:60289
+1619842867874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejd4cG1"
+*** You are running in headless mode.
+1619842869658	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:70269): GLib-GObject-CRITICAL **: 00:21:09.953: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:70289): GLib-GObject-CRITICAL **: 00:21:10.024: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842872678	Marionette	INFO	Listening on port 38495
+
+(/usr/lib/firefox/firefox:70373): GLib-GObject-CRITICAL **: 00:21:12.680: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619842872696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619842880372	Marionette	INFO	Stopped listening on port 38495
+1619842905843	geckodriver	INFO	Listening on 127.0.0.1:35381
+1619842905847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU1CxTc"
+*** You are running in headless mode.
+1619842907537	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:70661): GLib-GObject-CRITICAL **: 00:21:47.836: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:70681): GLib-GObject-CRITICAL **: 00:21:47.905: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842910494	Marionette	INFO	Listening on port 33777
+
+(/usr/lib/firefox/firefox:70755): GLib-GObject-CRITICAL **: 00:21:50.506: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619842910569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619842919576	Marionette	INFO	Stopped listening on port 33777
+1619842952636	geckodriver	INFO	Listening on 127.0.0.1:33439
+1619842952640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGgD4rf"
+*** You are running in headless mode.
+1619842954759	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:71052): GLib-GObject-CRITICAL **: 00:22:35.044: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:71072): GLib-GObject-CRITICAL **: 00:22:35.114: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842957566	Marionette	INFO	Listening on port 44309
+
+(/usr/lib/firefox/firefox:71148): GLib-GObject-CRITICAL **: 00:22:37.570: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619842957663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619842965280	Marionette	INFO	Stopped listening on port 44309
+1619842968462	geckodriver	INFO	Listening on 127.0.0.1:46327
+1619842968465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilextVqMW"
+*** You are running in headless mode.
+1619842970196	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:71339): GLib-GObject-CRITICAL **: 00:22:50.499: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:71361): GLib-GObject-CRITICAL **: 00:22:50.579: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842973042	Marionette	INFO	Listening on port 46303
+
+(/usr/lib/firefox/firefox:71437): GLib-GObject-CRITICAL **: 00:22:53.076: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619842973094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: u is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.7fa05aa49eee965dd89b3e0c42d14f33.js, line 4351: ReferenceError: deviceInfo is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: TypeError: window.deviceInfo is undefined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main.1347ff69bb0b1b6665f7b4a636d6579c.js, line 2: ReferenceError: deviceInfo is not defined
+1619842980603	Marionette	INFO	Stopped listening on port 46303
