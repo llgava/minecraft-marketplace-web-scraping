@@ -21,12 +21,13 @@ miniGamesTab = browser.find_element_by_link_text('MINI GAMES')
 survivalSpawnsTab = browser.find_element_by_link_text('SURVIVAL SPAWNS')
 
 # Collect from every category
-Collect.elements(skinPacksTab, 'skinpack', 'skin-packs', True)
+Collect.elements(skinPacksTab, 'skinpack', 'skin-packs', False)
 Collect.elements(texturePacksTab, 'resourcepack', 'texture-packs', False)
-Collect.elements(mashUpPacksTab, 'mashup', 'mash-up-packs', True)
-Collect.elements(adventureMapsTab, 'adventure_world', 'adventure-maps', True)
-Collect.elements(miniGamesTab, 'mini_game_world', 'mini-games', True)
-Collect.elements(survivalSpawnsTab, 'survival_spawn_world', 'survival-packs', True)
+Collect.elements(mashUpPacksTab, 'mashup', 'mash-up-packs', False)
+Collect.elements(adventureMapsTab, 'adventure_world', 'adventure-maps', False)
+Collect.elements(miniGamesTab, 'mini_game_world', 'mini-games', False)
+Collect.elements(survivalSpawnsTab, 'survival_spawn_world',
+                 'survival-packs', False)
 
 # Close Firefox
 browser.quit()
