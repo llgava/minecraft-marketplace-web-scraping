@@ -1,12 +1,12 @@
 English | [Brazilian Portuguese](.github/README_pt-br.md)
 
 # Minecraft Marketplace Web Scraping
-![Version Badge](https://img.shields.io/badge/version-beta--1.0-orange)
-![Python Version Badge](https://img.shields.io/badge/python-3.8.6-blue)
+![Version Badge](https://img.shields.io/badge/Version-beta--1.0-orange?style=flat-square)
+![Python Version Badge](https://img.shields.io/badge/3.8.6-blue?style=flat-square&logo=python&logoColor=white)
 
 This project aims to collect information from the [Minecraft Marketplace](https://www.minecraft.net/en-us/catalog) catalog page by category and save it in a `json` file separately. 
 
-> #### Copyright
+> ##### Copyright
 >
 > All information collected is public, no information favors or harms any content creator on the Marketplace. 
 >
@@ -32,6 +32,7 @@ After installing Python and pip, enter the project directory and perform the ins
 ```
 
 ## Generated JSON structure
+You can also see a example at `data/example.json`.
 
 ```json
 [

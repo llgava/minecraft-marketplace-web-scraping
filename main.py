@@ -26,8 +26,7 @@ Collect.elements(texturePacksTab, 'resourcepack', 'texture-packs', False)
 Collect.elements(mashUpPacksTab, 'mashup', 'mash-up-packs', False)
 Collect.elements(adventureMapsTab, 'adventure_world', 'adventure-maps', False)
 Collect.elements(miniGamesTab, 'mini_game_world', 'mini-games', False)
-Collect.elements(survivalSpawnsTab, 'survival_spawn_world',
-                 'survival-packs', False)
+Collect.elements(survivalSpawnsTab, 'survival_spawn_world','survival-packs', False)
 
 # Close Firefox
 browser.quit()
