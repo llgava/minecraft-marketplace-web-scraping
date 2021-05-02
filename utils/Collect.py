@@ -1,3 +1,4 @@
+import json
 import time
 import datetime
 from utils import Utils
@@ -27,23 +28,25 @@ class elements():
 
         print(id_value + ' | Start collect catalog elements...')
         for element in elementsCatalog:
-            url = element.find_element_by_tag_name('a').get_attribute("href")
+            elementData = element.find_element_by_tag_name('a').get_attribute("price-catalog")
             uuid = element.find_element_by_tag_name('a').get_attribute("id")
-            title = element.find_element_by_tag_name('h4').text
-            creator = element.find_element_by_class_name('creator').text[3:]
-            price = element.find_element_by_tag_name('div').find_element_by_css_selector('p:not(.ng-hide)').text
-            keyart = element.find_element_by_tag_name('img').get_attribute("bn-lazy-src")
+            url = element.find_element_by_tag_name('a').get_attribute("href")
 
             if(len(uuid) == 0): continue
-            if (price != 'FREE'): price = int(price)
 
             data.append({
                 'uuid': uuid,
-                'title': title,
-                'creator': creator,
-                'price': price,
+                'title': json.loads(elementData)['Title']['neutral'],
+                'description': json.loads(elementData)['Description']['neutral'],
+                'creator': json.loads(elementData)['DisplayProperties']['creatorName'],
+                'price': json.loads(elementData)['DisplayProperties']['price'],
+                'trailer': json.loads(elementData)['DisplayProperties']['videoUrl'],
+                'keyart': json.loads(elementData)['Images'][0]['url'],
+                'rating': {
+                    'average': json.loads(elementData)['AverageRating'],
+                    'total': json.loads(elementData)['TotalRatingsCount']
+                },
                 'url': url,
-                'keyart': keyart
             })
         
         print(id_value + ' | Total elements searched:', len(data))

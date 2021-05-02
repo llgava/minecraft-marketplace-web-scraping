@@ -1,7 +1,7 @@
 [English](../README.md) | Brazilian Portuguese
 
 # Minecraft Marketplace Web Scraping
-![Version Badge](https://img.shields.io/badge/Version-beta--1.0-orange?style=flat-square)
+![Version Badge](https://img.shields.io/badge/Version-beta--1.0.1-orange?style=flat-square)
 ![Python Version Badge](https://img.shields.io/badge/3.8.6-blue?style=flat-square&logo=python&logoColor=white)
 
 Este projeto tem como intuito fazer a coleta de informações da página de catálogo da [Minecraft Marketplace](https://www.minecraft.net/en-us/catalog) por categoria e salvar em um arquivo `json` separadamente.
@@ -39,15 +39,19 @@ Você também pode ver um exemplo em `data/example.json`.
   {
     "uuid": "str",
     "title": "str",
+    "description": "str",
     "creator": "str",
-    "price": "str | int",
+    "price": "str",
+    "trailer": "str | null",
+    "keyart": "str",
+    "rating": {
+      "average": "float",
+      "total": "int"
+    },
     "url": "str",
-    "keyart": "str"
   }
 ]
 ```
-
-O preço pode ser tanto do tipo `string` quando `int` por motivo de existirem itens na Marketplace de graça, que são exibidos com o preço de **FREE**.
 
 ### Contato
 
